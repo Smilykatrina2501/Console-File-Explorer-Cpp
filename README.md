@@ -8,7 +8,7 @@
 - View and modify file permissions
 - User-friendly command-line interface
   
-- ## How to Run ```bash
+- ## How to Run bash
 - Compile g++ -std=c++17 file_explorer.cpp -o file_explorer
 - ./explorer
   
