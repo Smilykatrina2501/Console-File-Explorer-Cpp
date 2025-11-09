@@ -9,5 +9,7 @@
 - User-friendly command-line interface
   
 - ### 🧑‍💻 How to Run ```bash
-- # Compile g++ -std=c++17 file_explorer.cpp -o file_explorer
--  # Run ./file_explorer in 350 character
+- Compile g++ -std=c++17 file_explorer.cpp -o file_explorer
+- ./explorer
+  
+
